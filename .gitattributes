@@ -1,0 +1,18 @@
+# Make this documentation-heavy skill repo show meaningful language stats on GitHub.
+
+*.md linguist-documentation=false
+*.md linguist-generated=false
+*.md linguist-vendored=false
+*.md linguist-detectable=true
+
+*.yml linguist-documentation=false
+*.yml linguist-generated=false
+*.yml linguist-vendored=false
+*.yml linguist-detectable=true
+
+*.yaml linguist-documentation=false
+*.yaml linguist-generated=false
+*.yaml linguist-vendored=false
+*.yaml linguist-detectable=true
+
+fluent-ui-guru/assets/* linguist-generated=true
