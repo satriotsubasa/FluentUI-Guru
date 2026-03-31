@@ -1,0 +1,5 @@
+interface:
+  display_name: "Fluent UI Guru"
+  short_description: "Enforce Fluent 2 UI implementation"
+  icon_large: "./assets/Fluent_React_UI_icon.svg"
+  default_prompt: "Use $fluent-ui-guru to design or audit this UI against Fluent 2 and Flicon icons."
